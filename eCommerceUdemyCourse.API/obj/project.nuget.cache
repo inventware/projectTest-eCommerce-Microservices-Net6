@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VBqPTR4bxskAC3hcRjDTds+SJ3vSuMN2lSU0Pc504mkQfMHmBRPG1yn7MaYNowcoKJ/ILmJpZJ1spEg9k4DOUw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\_Courses\\Udemy\\Microsservices ASP.NET - .NET 6\\eCommerceUdemyCourse\\eCommerceUdemyCourse.API\\eCommerceUdemyCourse.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flavi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\flavi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\flavi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\flavi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\flavi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\flavi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
